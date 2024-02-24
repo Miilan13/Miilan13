@@ -38,6 +38,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Miilan13/Miilan13/output/snake.svg" alt="Snake animation" />
+![](https://raw.githubusercontent.com/Miilan13/Miilan13/output/github-contribution-grid-snake.svg)
 
 ###
