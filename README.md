@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **LN Texttile Website**
+
 
 - 📫 How to reach me **ahirmilanmail@gmail.com**
 
